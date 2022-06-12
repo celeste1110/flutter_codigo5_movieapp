@@ -85,7 +85,7 @@ class _CastDetailPageState extends State<CastDetailPage> {
                   ),
                 ),
                 const SizedBox(
-                  height: 4.0,
+                  height: 5.0,
                 ),
                 castDetailModel!.placeOfBirth!=''?Text(
                   castDetailModel!.placeOfBirth.toString(),
